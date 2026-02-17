@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "transaction_id": "TRX001",
+      "customer_name": "John Smith",
+      "product_name": "Laptop Pro 15",
+      "category": "Electronics",
+      "quantity": 1,
+      "unit_price": 1299.99,
+      "sale_date": "2024-01-15",
+      "region": "North America",
+      "payment_method": "Credit Card"
+    },
+    {
+      "transaction_id": "TRX002",
+      "customer_name": "Maria Garcia",
+      "product_name": "Office Chair",
+      "category": "Furniture",
+      "quantity": 2,
+      "unit_price": 249.99,
+      "sale_date": "2024-01-16",
+      "region": "Europe",
+      "payment_method": "Debit Card"
+    },
+    {
+      "transaction_id": "TRX003",
+      "customer_name": "Ahmed Hassan",
+      "product_name": "USB-C Cable",
+      "category": "Accessories",
+      "quantity": 5,
+      "unit_price": 19.99,
+      "sale_date": "2024-01-17",
+      "region": "Middle East",
+      "payment_method": "Credit Card"
+    },
+    {
+      "transaction_id": "TRX004",
+      "customer_name": "Lisa Chen",
+      "product_name": "Mechanical Keyboard",
+      "category": "Electronics",
+      "quantity": 1,
+      "unit_price": 149.99,
+      "sale_date": "2024-01-18",
+      "region": "Asia",
+      "payment_method": "Online Banking"
+    },
+    {
+      "transaction_id": "TRX005",
+      "customer_name": "Carlos Rodriguez",
+      "product_name": "Desk Lamp",
+      "category": "Furniture",
+      "quantity": 3,
+      "unit_price": 45.99,
+      "sale_date": "2024-01-19",
+      "region": "South America",
+      "payment_method": "Credit Card"
+    },
+    {
+      "transaction_id": "TRX006",
+      "customer_name": "Emma Johnson",
+      "product_name": "Monitor 27 inch",
+      "category": "Electronics",
+      "quantity": 1,
+      "unit_price": 399.99,
+      "sale_date": "2024-01-20",
+      "region": "North America",
+      "payment_method": "PayPal"
+    },
+    {
+      "transaction_id": "TRX007",
+      "customer_name": "David Kim",
+      "product_name": "Wireless Mouse",
+      "category": "Accessories",
+      "quantity": 2,
+      "unit_price": 29.99,
+      "sale_date": "2024-01-21",
+      "region": "Asia",
+      "payment_method": "Credit Card"
+    },
+    {
+      "transaction_id": "TRX008",
+      "customer_name": "Sophie Martin",
+      "product_name": "Standing Desk",
+      "category": "Furniture",
+      "quantity": 1,
+      "unit_price": 599.99,
+      "sale_date": "2024-01-22",
+      "region": "Europe",
+      "payment_method": "Bank Transfer"
+    },
+    {
+      "transaction_id": "TRX009",
+      "customer_name": "Raj Patel",
+      "product_name": "HDMI Cable",
+      "category": "Accessories",
+      "quantity": 4,
+      "unit_price": 14.99,
+      "sale_date": "2024-01-23",
+      "region": "Asia",
+      "payment_method": "Credit Card"
+    },
+    {
+      "transaction_id": "TRX010",
+      "customer_name": "Anna Mueller",
+      "product_name": "Wireless Headphones",
+      "category": "Electronics",
+      "quantity": 1,
+      "unit_price": 199.99,
+      "sale_date": "2024-01-24",
+      "region": "Europe",
+      "payment_method": "Debit Card"
+    }
+  ]
+}
